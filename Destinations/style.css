@@ -1,0 +1,16 @@
+body{
+    background-color:grey;
+}
+p{
+    color:darkred;
+}
+
+img{
+    border-radius:360px;
+    border:3px solid black;
+}
+.navbar{
+    background-color: aqua;
+
+}
+
